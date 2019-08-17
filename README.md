@@ -18,7 +18,7 @@
 
 ## What
 
-- Flare with BoxFit.cover + SizeTransition + AnimatedList for tasks in flutter Task app (e004)
+-AnimatedList useing Flare with BoxFit.cover for removeItem Animation for tasks in flutter Task app (e004)
 
 - must run with :
 
